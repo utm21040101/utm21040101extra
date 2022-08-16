@@ -5,8 +5,9 @@
   "main": "index.js",
   "scripts": {
     "Server": "nodemon .\\server\\server.js",
-    "start": "node ./server/server.js"
+    "star": "node ./server/server.js"
   },
+
   "keywords": [
     "node",
     "express",
