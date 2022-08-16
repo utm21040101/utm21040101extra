@@ -7,6 +7,16 @@
     "Server": "nodemon .\\server\\server.js",
     "start": "node ./server/server.js"
   },
+
+  "keywords": [
+    "node",
+    "express",
+    "mongodb",
+    "mongoose",
+    "api",
+    "rest"
+  ],
+  
   "author": "",
   "license": "ISC",
   "dependencies": {
